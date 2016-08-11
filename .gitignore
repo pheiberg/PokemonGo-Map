@@ -10,6 +10,8 @@ node_modules/
 venv/
 core
 src/
+env/
 _build
 _build_html
 beehive.*
+.vscode
